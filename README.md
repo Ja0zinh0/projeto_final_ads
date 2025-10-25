@@ -48,3 +48,5 @@ O objetivo principal é promover uma **logística reversa eficiente**, reduzindo
 
 ### 1️⃣ Clonar o repositório
 ```bash
+git clone https://github.com/Ja0zinh0/autoeletrica-sustentavel.git
+cd autoeletrica-sustentavel
